@@ -1,0 +1,14 @@
+{
+    "name": "隔壁老王",
+    "age": 25,
+    "birthday": "1990-01-01",
+    "major": [
+        "挖掘机",
+        "计算机"
+    ],
+    "school": "蓝翔",
+    "car": null,
+    "house": null,
+    "has_girlfriend": false,
+    "comment": "这是一个注释"
+}
